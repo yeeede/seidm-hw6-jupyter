@@ -72,48 +72,48 @@ sample_df
   <tbody>
     <tr>
       <th>0</th>
-      <td>C0R260</td>
-      <td>春日</td>
+      <td>C0R620</td>
+      <td>墾雷</td>
       <td>屏東縣</td>
-      <td>春日鄉</td>
-      <td>120.6203</td>
-      <td>22.3722</td>
+      <td>恆春鎮</td>
+      <td>120.8472</td>
+      <td>21.9027</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>1.5</td>
+      <td>1.5</td>
+      <td>1.5</td>
       <td>局屬無人測站</td>
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>C0V350</td>
-      <td>溪埔</td>
-      <td>高雄市</td>
-      <td>大樹區</td>
-      <td>120.4386</td>
-      <td>22.7403</td>
+      <td>C0K470</td>
+      <td>林內</td>
+      <td>雲林縣</td>
+      <td>林內鄉</td>
+      <td>120.6015</td>
+      <td>23.7504</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>0.0</td>
+      <td>10.5</td>
       <td>0.0</td>
       <td>局屬無人測站</td>
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>C0R510</td>
-      <td>萬丹</td>
-      <td>屏東縣</td>
-      <td>萬丹鄉</td>
-      <td>120.4824</td>
-      <td>22.5896</td>
+      <td>01H780</td>
+      <td>內茅埔(2</td>
+      <td>南投縣</td>
+      <td>信義鄉</td>
+      <td>120.8437</td>
+      <td>23.6924</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -121,17 +121,53 @@ sample_df
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>局屬無人測站</td>
+      <td>水利署第四河川局</td>
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>C0V750</td>
-      <td>路竹</td>
-      <td>高雄市</td>
-      <td>路竹區</td>
-      <td>120.2514</td>
-      <td>22.8566</td>
+      <td>88O950</td>
+      <td>羌黃坑</td>
+      <td>臺南市</td>
+      <td>南化區</td>
+      <td>120.5289</td>
+      <td>23.0739</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>18.5</td>
+      <td>0.0</td>
+      <td>農委會水土保持局</td>
+      <td>2017-07-12 13:40:00</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>A1A9W0</td>
+      <td>陽明高中</td>
+      <td>臺北市</td>
+      <td>士林區</td>
+      <td>121.5085</td>
+      <td>25.0943</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>臺北市水利處</td>
+      <td>2017-07-12 13:40:00</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>C1T850</td>
+      <td>吉安</td>
+      <td>花蓮縣</td>
+      <td>吉安鄉</td>
+      <td>121.5547</td>
+      <td>23.9753</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -143,73 +179,37 @@ sample_df
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>A1AC70</td>
-      <td>挹翠</td>
-      <td>臺北市</td>
-      <td>信義區</td>
-      <td>121.5662</td>
-      <td>25.0189</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>臺北市大地工程處(信義挹翠山莊)</td>
-      <td>2017-07-12 13:40:00</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>L1A800</td>
-      <td>碧湖</td>
-      <td>新北市</td>
-      <td>坪林區</td>
-      <td>121.7375</td>
-      <td>24.8944</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.5</td>
-      <td>0.0</td>
-      <td>翡翠水庫</td>
-      <td>2017-07-12 13:40:00</td>
-    </tr>
-    <tr>
       <th>6</th>
-      <td>C1I440</td>
-      <td>新高口</td>
+      <td>C1H860</td>
+      <td>瑞岩</td>
       <td>南投縣</td>
-      <td>信義鄉</td>
-      <td>120.8707</td>
-      <td>23.4805</td>
+      <td>仁愛鄉</td>
+      <td>121.1750</td>
+      <td>24.1256</td>
       <td>0</td>
-      <td>0.5</td>
-      <td>0.5</td>
-      <td>0.5</td>
-      <td>0.5</td>
-      <td>16.0</td>
-      <td>0.5</td>
+      <td>2.5</td>
+      <td>2.5</td>
+      <td>2.5</td>
+      <td>2.5</td>
+      <td>2.5</td>
+      <td>2.5</td>
       <td>局屬無人測站</td>
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>C1H9B1</td>
-      <td>阿眉</td>
-      <td>南投縣</td>
-      <td>仁愛鄉</td>
-      <td>120.9861</td>
-      <td>24.1278</td>
+      <td>C1O870</td>
+      <td>大棟山</td>
+      <td>臺南市</td>
+      <td>白河區</td>
+      <td>120.5142</td>
+      <td>23.3133</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>5.0</td>
+      <td>2.5</td>
       <td>0.0</td>
       <td>局屬無人測站</td>
       <td>2017-07-12 13:40:00</td>
@@ -230,7 +230,7 @@ cor_df = full_df[['SiteId', 'SiteName', 'TWD67Lon', 'TWD67Lat']]
 
 ```python
 output_csv = 'RainTenMin_Cor.csv'
-cor_df.to_csv(output_csv, sep=',', encoding='utf-8')
+cor_df.to_csv(output_csv, index=False, sep=',', encoding='utf-8')
 ```
 
 
