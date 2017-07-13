@@ -69,30 +69,12 @@ sample_df
   <tbody>
     <tr>
       <th>0</th>
-      <td>C0I080</td>
-      <td>信義</td>
-      <td>南投縣</td>
-      <td>信義鄉</td>
-      <td>120.8428</td>
-      <td>23.6914</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>局屬無人測站</td>
-      <td>2017-07-12 13:40:00</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>01E310</td>
-      <td>南勢山</td>
-      <td>苗栗縣</td>
-      <td>後龍鎮</td>
-      <td>120.7271</td>
-      <td>24.5898</td>
+      <td>O1D590</td>
+      <td>成德中學</td>
+      <td>新竹市</td>
+      <td>北區</td>
+      <td>120.9445</td>
+      <td>24.7916</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -104,13 +86,31 @@ sample_df
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
+      <th>1</th>
+      <td>01H680</td>
+      <td>北山(2)</td>
+      <td>南投縣</td>
+      <td>國姓鄉</td>
+      <td>120.8847</td>
+      <td>23.9873</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>水利署第三河川局</td>
+      <td>2017-07-12 13:40:00</td>
+    </tr>
+    <tr>
       <th>2</th>
-      <td>NUP810</td>
-      <td>員山子</td>
+      <td>01AG00</td>
+      <td>社后橋</td>
       <td>新北市</td>
-      <td>瑞芳區</td>
-      <td>121.8148</td>
-      <td>25.1082</td>
+      <td>汐止區</td>
+      <td>121.6336</td>
+      <td>25.0630</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -123,48 +123,12 @@ sample_df
     </tr>
     <tr>
       <th>3</th>
-      <td>C0R470</td>
-      <td>高樹</td>
-      <td>屏東縣</td>
-      <td>高樹鄉</td>
-      <td>120.5927</td>
-      <td>22.8282</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>局屬無人測站</td>
-      <td>2017-07-12 13:40:00</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>A1AC70</td>
-      <td>挹翠</td>
+      <td>A1A9V0</td>
+      <td>北投國小</td>
       <td>臺北市</td>
-      <td>信義區</td>
-      <td>121.5662</td>
-      <td>25.0189</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>臺北市大地工程處(信義挹翠山莊)</td>
-      <td>2017-07-12 13:40:00</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>A1AB00</td>
-      <td>北政國中</td>
-      <td>臺北市</td>
-      <td>文山區</td>
-      <td>121.5693</td>
-      <td>24.9862</td>
+      <td>北投區</td>
+      <td>121.4907</td>
+      <td>25.1357</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -176,13 +140,13 @@ sample_df
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
-      <th>6</th>
-      <td>C0AH00</td>
-      <td>汐止</td>
-      <td>新北市</td>
-      <td>汐止區</td>
-      <td>121.6506</td>
-      <td>25.0687</td>
+      <th>4</th>
+      <td>C1E461</td>
+      <td>松安</td>
+      <td>苗栗縣</td>
+      <td>泰安鄉</td>
+      <td>120.9778</td>
+      <td>24.3994</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -194,21 +158,57 @@ sample_df
       <td>2017-07-12 13:40:00</td>
     </tr>
     <tr>
-      <th>7</th>
-      <td>C0A880</td>
-      <td>福隆</td>
-      <td>新北市</td>
-      <td>貢寮區</td>
-      <td>121.9342</td>
-      <td>25.0192</td>
+      <th>5</th>
+      <td>C0D430</td>
+      <td>峨眉</td>
+      <td>新竹縣</td>
+      <td>峨眉鄉</td>
+      <td>121.0091</td>
+      <td>24.6924</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
+      <td>9</td>
       <td>0</td>
       <td>局屬無人測站</td>
+      <td>2017-07-12 13:40:00</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>467620</td>
+      <td>蘭嶼</td>
+      <td>臺東縣</td>
+      <td>蘭嶼鄉</td>
+      <td>121.5503</td>
+      <td>22.0388</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>局屬氣象測站</td>
+      <td>2017-07-12 13:40:00</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>466990</td>
+      <td>花蓮</td>
+      <td>花蓮縣</td>
+      <td>花蓮市</td>
+      <td>121.6051</td>
+      <td>23.9769</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>局屬氣象測站</td>
       <td>2017-07-12 13:40:00</td>
     </tr>
   </tbody>
@@ -221,7 +221,7 @@ sample_df
 
 
 ```python
-cor_df = full_df[['SiteId', 'SiteName', 'TWD67Lon', 'TWD67Lat']]
+cor_df = full_df[['SiteName', 'SiteId', 'County', 'TWD67Lon', 'TWD67Lat']]
 
 output_csv = 'RainTenMin_Cor.csv'
 ```
